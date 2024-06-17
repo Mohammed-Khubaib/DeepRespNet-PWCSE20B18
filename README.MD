@@ -40,7 +40,10 @@ streamlit run app.py
 The dataset used in this project is the [Respiratory Sound Database](https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database) available on Kaggle.
 
 ## Web Application User Interface
-
+<video width="600" controls>
+  <source src="webapp.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ## projet struture
 
 ```
